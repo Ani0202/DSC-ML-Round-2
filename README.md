@@ -4,6 +4,7 @@ Multi-class classification ML/DL model on the Fashion MNIST data.
 Extract the datasets from Datasets.zip file in the same folder of the code before executing the code
 
 Algorithms applied and their accuracy:
+	
 	Decision Tree: 79.21%.
 	
 	Logistic Regression: 85.8%.
